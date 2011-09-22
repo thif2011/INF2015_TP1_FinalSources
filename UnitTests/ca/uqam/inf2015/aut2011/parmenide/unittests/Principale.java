@@ -6,7 +6,7 @@
 package ca.uqam.inf2015.aut2011.parmenide.unittests;
 
 /**
- * Principale
+ * Classe Principale
  * 
  * @author Frederic Thibodeau
  * @author Roosvelt Lamour
